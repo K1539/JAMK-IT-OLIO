@@ -1,6 +1,6 @@
 ﻿using System;
 /// <summary>
-/// A simple example of Blackjack card game
+/// A simple example of Blackjack card game 
 /// </summary>
 namespace JAMK.IT
 {
